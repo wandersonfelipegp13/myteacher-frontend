@@ -6,6 +6,8 @@
 
 MyTeacher é uma aplicação web construída com [Next.js](https://nextjs.org/). Desenvolvida durante o Workshop Semana React Python da TreinaWeb. O repositório original pode ser acessado [aqui](https://github.com/treinaweb/workshop-myteacher-react).
 
+O back-end da aplicação está disponível [nesse repositório](https://github.com/wandersonfelipegp13/myteacher-backend).
+
 ## Como rodar
 
 Rode o servidor de desenvolvimento:
